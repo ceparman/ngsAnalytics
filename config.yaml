@@ -1,5 +1,4 @@
-theme: starter-academic
-title: Academic
+title: ngsAnalytics
 baseurl: ''
 copyright: ''
 enableGitInfo: no
@@ -21,8 +20,6 @@ ignoreFiles:
 permalinks:
   authors: /author/:slug/
   categories: /category/:slug/
-  event: /talk/:slug/
-  publication_types: /publication-type/:slug/
   tags: /tag/:slug/
 outputs:
   home:
