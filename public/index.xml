@@ -157,5 +157,56 @@ Figure 1: A fancy pie chart.
 </description>
     </item>
     
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;h2 id=&#34;what-we-collect&#34;&gt;What We Collect&lt;/h2&gt;
+&lt;p&gt;Here we describe how we collect, use and handle your information when you use our website.&lt;/p&gt;
+&lt;p&gt;We collect and use the following information. Visitor statistics, ip address, location, and refering site using Google Analytics. &lt;a href=&#34;https://www.google.com/analytics/terms&#34;&gt;https://www.google.com/analytics/terms&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ngsAnalytics does not sell or give information about you to other companies or services. However, ngsAnalytics does use services from other companies to provide ngsAnalytics.com user statistics. The companies behind those services may collect data about you on their own, for their own purposes. Some of these services may be used to collect information about your online activities across different websites. All of these services are based in the United States.&lt;/p&gt;
+&lt;h2 id=&#34;changes&#34;&gt;Changes&lt;/h2&gt;
+&lt;p&gt;We may revise this Privacy Policy from time to time, and will post the most current version on our website. If a revision meaningfully reduces your rights, we will notify you.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Have questions or concerns? Contact us at &lt;a href=&#34;mailto:info@ngsanalytics.com&#34;&gt;info@ngsanalytics.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bell Shaped Dose-Response</title>
+      <link>/project/bell-shaped-dose-response/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/bell-shaped-dose-response/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ngsanalytics.shinyapps.io/bellcurvedose/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Launch App&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Explorer</title>
+      <link>/project/portfolio-explorer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/portfolio-explorer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ngsanalytics.shinyapps.io/PortfolioExplorer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Launch App&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QC Reporting</title>
+      <link>/project/qc-reporting/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/qc-reporting/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ngsanalytics.shinyapps.io/QCApp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Launch App&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R Package Development</title>
+      <link>/project/r-package-development/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/r-package-development/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
