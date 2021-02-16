@@ -37,7 +37,7 @@ subtitle = ""
 [[feature]]
   icon = "shiny"
   icon_pack = "custom"
-  name = "Shinyapp.io"
+  name = "Shinyapps.io"
   description = "Shiny Application Hosting"    
   
 

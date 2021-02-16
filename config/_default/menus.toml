@@ -2,25 +2,26 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+ 
 
 [[main]]
   name = "Services"
-  url = "services/"
+  url = "#services"
   weight = 10
 
 [[main]]
-  name = "R-Shiny Applications"
-  url = "rshiny/"
+  name = "Projects"
+  url = "#projects"
   weight = 20
 
 
 [[main]]
-  name = "Contact"
-  url = "contact/"
+  name = "Technologies"
+  url = "#skills"
   weight = 30
 
 
 [[main]]
-  name = "Documentation"
-  url = "docs/"
-  weight = 10
+  name = "Contact"
+  url = "#contact"
+  weight = 40

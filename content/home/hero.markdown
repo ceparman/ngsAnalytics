@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "ngsAnalytics"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-#hero_media = "book.svg"
+hero_media = "Rlogo4.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -43,6 +43,4 @@ title = "ngsAnalytics"
 # label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-
-
-Practical Solutions for Data Management and Analysis
+R and Shiny Applications for Data Management and Analysis
