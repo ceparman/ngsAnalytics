@@ -19,7 +19,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-[Launch App](https://ngsanalytics.shinyapps.io/modalPrint/)
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -28,3 +28,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
+
+[Launch App](https://ngsanalytics.shinyapps.io/modalPrint/)
