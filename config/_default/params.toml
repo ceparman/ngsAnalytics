@@ -26,7 +26,7 @@ font = "ngsAnalytics"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "XL"
 
 ############################
 ## Basic Info
@@ -244,7 +244,7 @@ contact_links = [
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-73128850-5"
   google_tag_manager = ""
 
 ############################
